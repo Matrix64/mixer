@@ -1,3 +1,9 @@
+# 0.22.0 (wip)
+
+## Features
+
+- Grease pencil: synchronize effects
+
 # 0.21.1 (22-02-2021)
 
 ## Fixes
