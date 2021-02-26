@@ -1,8 +1,9 @@
-# 0.21.1 (22-02-2021)
+# 0.22.0 (wip)
 
 ## Fixes
 
-- Addon load failure on Blender 2.92 RC
+- VSE synchronization error on 2.92
+- Object modifier synchronization failure on Blender 2.92
 
 # 0.21.0 (19-02-2021)
 
